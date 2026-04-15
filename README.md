@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[Co/Ranboos](https://rentry.co/cranboos)  ༄.° [Co/kduckity](https://rentry.co/cduckity) ༄.°
+[Co/Ranboos](https://rentry.co/cranboos)  ༄.° [Co/Kduckity](https://rentry.co/kduckity) ༄.°
 
 </div>
 

@@ -2,7 +2,7 @@
 <html>
   
 <div align="center">
-<img src="https://i.postimg.cc/hPGCJ72Q/F4MUi-Ad-Wg-AAm-IU6.jpg" width=500px height=550px>
+<img src="https://i.ibb.co/QvXccjcg/j-removebg-preview.png" alt="j-removebg-preview" border="0" width=600px height=650px>
 </div>
 
 <div align="center">
@@ -12,3 +12,10 @@
 </div>
 
 </html>
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3famw1egzsxv2kzekv5e045br&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=25a1ef&bar_color_cover=false">
+  </a>
+</p>
